@@ -1,0 +1,7 @@
+com/kinjal/cloud/LambdaTrigger.class
+com/kinjal/cloud/Ec2Creation.class
+com/kinjal/cloud/S3Manager.class
+com/kinjal/cloud/Context.class
+com/kinjal/cloud/RequestHandler.class
+com/kinjal/cloud/TaskReminderLambda.class
+com/kinjal/cloud/TaskReminder.class
